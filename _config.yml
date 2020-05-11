@@ -13,7 +13,7 @@ name                     : &name "Vinicius Ramos"
 description              : &description "Ph.D. in Systems and Computer Engineering at the Federal University of Rio de Janeiro (Brazil) jointly with the Eindhoven University of Technology (Holland). Associate Professor in the Sciences, Technologies, and Health Center of the Federal University of Santa Catarina (Brazil). His research interests include the use of intelligent systems in education, learning analytics, social networks analysis and education in computer science."
 url                      : https://professorviniciusramos.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "professorviniciusramos/professorviniciusramos.github.io"
+repository               : "professorviniciusramos.github.io"
 teaser                   :  "photo_vinicius_820x820.png"# filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -32,7 +32,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "master" #, "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Vinicius Ramos, Ph.D."
   avatar           : "photo_vinicius_820x820.png"
-  bio              : "Associate Professor"
-  location         : "Brazil"
+  bio              : "Associate Professor at Federal University of Santa Catarina (UFSC), member of the Lab. Sistemas de Conhecimento (LSC), and BOTAFOGO F.R. supporter"
+  location         : 
   employer         : "UFSC"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=VOvnnI4AAAAJ&hl=en"
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  skype        : "viniciusfcramos"
 
 
 # Reading Files
