@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Vinicius Ramos / Prof. Vinicius Ramos, Ph.D."
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Vinicius Ramos"
+description              : &description "Ph.D. in Systems and Computer Engineering at the Federal University of Rio de Janeiro (Brazil) jointly with the Eindhoven University of Technology (Holland). Associate Professor in the Sciences, Technologies, and Health Center of the Federal University of Santa Catarina (Brazil). His research interests include the use of intelligent systems in education, learning analytics, social networks analysis and education in computer science."
+url                      : https://professorviniciusramos.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+repository               : "professorviniciusramos/professorviniciusramos.github.io"
+teaser                   :  "photo_vinicius_500x300.png"# filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  name             : "Your side bar name"
+  avatar           : "photo_vinicius_500x300.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
