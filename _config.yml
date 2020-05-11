@@ -80,8 +80,13 @@ analytics:
 
 # Site Author
 author:
+<<<<<<< HEAD
   name             : "Vinicius Ramos PhD"
   avatar           : "photo_vinicius_820x820.png"
+=======
+  name             : "Vinicius Ramos, Ph.D."
+  avatar           : "photo_vinicius_500x300.png"
+>>>>>>> 78dc070d4b4788c9d37eb99d470dc16b346c3bb1
   bio              : "Associate Professor"
   location         : "Brazil"
   employer         : "UFSC"
