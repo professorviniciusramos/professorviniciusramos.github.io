@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Vinicius Ramos / Prof. Vinicius Ramos, Ph.D."
+title                    : "Prof. Vinicius Ramos, Ph.D."
 title_separator          : "-"
 name                     : &name "Vinicius Ramos"
 description              : &description "Ph.D. in Systems and Computer Engineering at the Federal University of Rio de Janeiro (Brazil) jointly with the Eindhoven University of Technology (Holland). Associate Professor in the Sciences, Technologies, and Health Center of the Federal University of Santa Catarina (Brazil). His research interests include the use of intelligent systems in education, learning analytics, social networks analysis and education in computer science."
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your side bar name"
+  name             : "Vinicius Ramos, PhD"
   avatar           : "photo_vinicius_500x300.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  bio              : "Associate Professor"
+  location         : "Brazil"
+  employer         : "UFSC"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=VOvnnI4AAAAJ&hl=en"
+  email            : "v.ramos [at] ufsc [dot] br
+  researchgate     : "https://www.researchgate.net/profile/Vinicius_Ramos6"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "professorviniciusramos"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-8319-743X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Sao_Paulo # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
