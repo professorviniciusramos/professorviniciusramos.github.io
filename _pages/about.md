@@ -10,12 +10,10 @@ redirect_from:
 
 This is Dr. Vinicius Ramos homepage!
 
-Associate Professor at the [Department of Information and Communication Technologies](http://cit.ufsc.br "Department of Information and Communication Technologies") [Federal University of Santa Catarina - UFSC](http://www.ufsc.br "Federal University of Santa Catarina - UFSC")
+Associate Professor in the [Department of Information and Communication Technologies](http://cit.ufsc.br "Department of Information and Communication Technologies") at the [Federal University of Santa Catarina - UFSC](http://www.ufsc.br "Federal University of Santa Catarina - UFSC").
 
-Ph.D. at [Instituto Alberto Luiz Coimbra - COPPE](http://www.coppe.br "Instituto Alberto Luiz Coimbra - COPPE") at [Federal University of Rio de Janeiro - UFRJ](http://www.ufrj.br "Federal University of Rio de Janeiro - UFRJ")
+Ph.D. in Systems and Computer Engineering at the [Federal University of Rio de Janeiro - UFRJ](http://www.ufrj.br "Federal University of Rio de Janeiro - UFRJ") jontly with the [Eindhoven University of Techonology - TUe](http://www.tue.nl "Eindhoven University of Techonology - TUe").
 
-Ph.D. at [Eindhoven University of Techonology - TUe](http://www.tue.nl "Eindhoven University of Techonology - TUe")
-
-Email: v.ramos __at__ ufsc __dot__ br
+Email: v.ramos \<at\> ufsc \<dot\> br
 
 Telephone: +55 48 3721-6935

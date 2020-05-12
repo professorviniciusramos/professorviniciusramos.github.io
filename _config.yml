@@ -87,7 +87,7 @@ author:
   employer         : "UFSC"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=VOvnnI4AAAAJ&hl=en"
-  email            : "v.ramos [at] ufsc [dot] br"
+  email            : "v.ramos <at> ufsc <dot> br"
   researchgate     : "https://www.researchgate.net/profile/Vinicius_Ramos6"
   uri              :
   bitbucket        :
@@ -97,6 +97,7 @@ author:
   facebook         :
   foursquare       :
   github           : "professorviniciusramos"
+  skype        : "viniciusfcramos"
   google_plus      :
   keybase          :
   instagram        :
@@ -115,7 +116,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  skype        : "viniciusfcramos"
 
 
 # Reading Files
