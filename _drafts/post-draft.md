@@ -1,6 +1,6 @@
 ---
 title: Draft Post
-date: 2020-05-13 14:11:45.299000000 -03:00
+date: 2020-05-13 14:11:45 -03:00
 categories:
 - Jekyll
 tags:
