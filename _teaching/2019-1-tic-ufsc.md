@@ -1,6 +1,6 @@
 ---
 title: Tecnologias da Informação e Comunicação (TIC/UFSC)
-date: 2019-03-01
+date: 2019-03-01 00:00:00 -03:00
 permalink: "/teaching/2019-1-tic-ufsc"
 collection: teaching
 type: Undergraduate course
