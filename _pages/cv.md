@@ -11,49 +11,44 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, Federal University of Rio de Janeiro, 2005
+* M.S. in Systems and Computer Engineering, COPPE - Federal University of Rio de Janeiro, 2008
+* Ph.D in Systems and Computer Engineering, COPPE - Federal University of Rio de Janeiro, 2013 (jointly with)
+* Ph.D in Computer Science, Eindhoven University of Techonology, 2014
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Oct. 2015 -- nowadays: Associate Professor
+  * Federal University of Santa Catarina
+  * Duties included: Administration issues, Extension, Research and Teaching
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programmer - Python, Java, C, PHP
+* Applied Machine Learning Enthusiastic
+  * Prediction of at-risk Students
+  * Intelligent Systems in Education
+  * Educational Data Mining
+  * Adaptive Hypermedia
+
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+
+Actual Research Groups
 ======
-* Currently signed in to 43 different slack teams
+* Currently member of the [LSC - Laboratório de Sistemas de Conhecimento](http://www.lsc.ufsc.br "Laboratório de Sistemas de Conhecimento"))
+* Currently member of the CrIE - Laboratório de Criatividade e Inovação para Educação
+* Currently member of the COMUNIC - Mídia-Educação e Comunicação Educacional
