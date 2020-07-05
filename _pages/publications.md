@@ -9,9 +9,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-{% if author.lattes %}
-  You can also find my articles on <u><a href="{{author.lattes}}">my Lattes CV</a>.</u>
-{% endif %}
+You can also find my articles on <a href="http://lattes.cnpq.br/0442142220296336">my Lattes CV</a>.
 
 {% include base_path %}
 
