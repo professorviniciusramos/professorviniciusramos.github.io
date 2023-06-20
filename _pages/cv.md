@@ -20,6 +20,7 @@ Work experience
 ======
 * Oct. 2015 -- nowadays: Associate Professor
   * Federal University of Santa Catarina
+  * Department of Knowkedge Engineering and Management
   * Duties included: Administration issues, Extension, Research and Teaching
 
 
@@ -31,6 +32,9 @@ Skills
   * Intelligent Systems in Education
   * Educational Data Mining
   * Adaptive Hypermedia
+* Natural Language Processing (NLP)
+  * Court Decisions
+  * Social Networks
 
 
 Publications
@@ -49,6 +53,6 @@ Teaching
 
 Actual Research Groups
 ======
-* Currently member of the [LSC - Laboratório de Sistemas de Conhecimento](http://www.lsc.ufsc.br "Laboratório de Sistemas de Conhecimento"))
-* Currently member of the CrIE - Laboratório de Criatividade e Inovação para Educação
-* Currently member of the COMUNIC - Mídia-Educação e Comunicação Educacional
+* Currently member of the [LSC - Laboratório de Sistemas de Conhecimento](http://www.lsc.ufsc.br "Laboratório de Sistemas de Conhecimento")
+* Currently member of the [CrIE - Laboratório de Criatividade e Inovação para Educação](https://crie.ufsc.br "Laboratório de Criatividade e Inovação para Educação")
+* Currently member of the [IGTI - Núcleo de Pesquisa em Inteligência, Gestão e Tecnologia para Inovação](https://igti.ufsc.br "Núcleo de Pesquisa em Inteligência, Gestão e Tecnologia para Inovação")

@@ -78,13 +78,13 @@ name: Vinicius Ramos
 description: Ph.D. in Systems and Computer Engineering at the Federal University of
   Rio de Janeiro (Brazil) jointly with the Eindhoven University of Technology (Holland).
   Associate Professor in the Sciences, Technologies, and Health Center of the Federal
-  University of Santa Catarina (Brazil). His research interests include the use of
+  University of Santa Catarina (Brazil). His research interests include the use of applied machine learning in business, education and court decisions, 
   intelligent systems in education, learning analytics, social networks analysis and
   education in computer science.
 url: https://viniciusramos.pro.br
 baseurl: ''
 repository: professorviniciusramos.github.io
-teaser: photo_vinicius_820x820.png
+teaser: photo_perfil_ViniciusRamos_820x820.png
 breadcrumbs: false
 words_per_minute: 160
 future: true
@@ -146,9 +146,9 @@ analytics:
     tracking_id: 
 author:
   name: Vinicius Ramos, Ph.D.
-  avatar: photo_vinicius_820x820.png
+  avatar: photo_perfil_ViniciusRamos_820x820.png
   bio: Associate Professor at Federal University of Santa Catarina (UFSC), member
-    of the Lab. Sistemas de Conhecimento (LSC), and BOTAFOGO F.R. supporter
+    of the Lab. Sistemas de Conhecimento (LSC) and IGTI, and BOTAFOGO F.R. supporter
   location: 
   employer: UFSC
   pubmed: 

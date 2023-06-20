@@ -12,8 +12,25 @@ List of teaching subjects and semesters
 
 Subjects
 =======
-### Semesters: 2019.1 and 2019.2
+### Semesters: 2021.2
 
+* NO CLASS - Sabbatical
+
+### Semesters: 2021.1
+
+* Tópicos Especiais em Tecnologias Digitais
+
+* Estrutura de Dados e Algoritmos
+
+
+### Semesters: 2020.1 and 2020.2
+
+* Estrutura de Dados e Algoritmos
+
+* Desenvolvimento de Sistemas Web (PHP)
+
+
+### Semesters: 2019.1 and 2019.2
 
 * Algoritmos e Programação (Python)
 
